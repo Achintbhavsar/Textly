@@ -46,7 +46,7 @@ Textly/
 
 ## 👨‍💻 Contributors
 
-Achint Bhavsar – Android Developer
+Achint Bhavsar – Android Developer,
 Dhruv Solanki – Web Developer
 
 ---
